@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 SLAY # Domain-Driven Hexagon
+=======
+SLAY# Domain-Driven Hexagon
+>>>>>>> branch1
 
 **Check out my other repositories**:
 
